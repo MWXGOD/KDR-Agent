@@ -10,6 +10,16 @@ KDR-Agent 是一个面向 **低资源、多领域命名实体识别（NER）** �
 
 ---
 
+## 🏗️ Architecture
+
+<p align="center">
+  <img src="figure/Overall_Model.pdf" width="800" />
+</p>
+
+**Figure:** Overview of KDR-Agent.
+
+---
+
 ## 🚀 快速开始
 
 ### 1. 配置 OpenAI Key
