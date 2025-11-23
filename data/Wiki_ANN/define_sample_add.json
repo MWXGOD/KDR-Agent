@@ -1,0 +1,293 @@
+[
+    {
+        "sentence": "One of a Kind ( Moe Bandy album )",
+        "entities": [
+            {
+                "name": "One of a Kind ( Moe Bandy album )",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Moe Bandy",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "She was completed on 18 January 1820 at Plymouth Dockyard .",
+        "entities": [
+            {
+                "name": "Plymouth Dockyard",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Dockyard",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "Lake Pleasant ( Washington )",
+        "entities": [
+            {
+                "name": "Lake Pleasant ( Washington )",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Lake Pleasant",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "He was born at Sawston , Cambridgeshire , and died at New Barnet , then in Hertfordshire .",
+        "entities": [
+            {
+                "name": "Sawston",
+                "type": "location"
+            },
+            {
+                "name": "Cambridgeshire",
+                "type": "location"
+            },
+            {
+                "name": "New Barnet",
+                "type": "location"
+            },
+            {
+                "name": "Hertfordshire",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Barnet",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "' '' Yambol '' '",
+        "entities": [
+            {
+                "name": "Yambol",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Yambol",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "An Evil Cradling '' , Brian Keenan 's memoir of his ordeal",
+        "entities": [
+            {
+                "name": "An Evil Cradling",
+                "type": "organization"
+            },
+            {
+                "name": "Brian Keenan",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "An Evil Cradling",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "She was born in Sanandaj in north-western Iran and deceased in Sulaymaniyah in present-day north-eastern Iraq .",
+        "entities": [
+            {
+                "name": "Sanandaj",
+                "type": "location"
+            },
+            {
+                "name": "Iran",
+                "type": "location"
+            },
+            {
+                "name": "Sulaymaniyah",
+                "type": "location"
+            },
+            {
+                "name": "Iraq",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "north-western Iran",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Center for Regulatory Effectiveness , DataQualityAct.US",
+        "entities": [
+            {
+                "name": "Center for Regulatory Effectiveness",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Regulatory Effectiveness",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "''Eyes without a Face '' completed filming in 1959 , and had its debut in Paris on March 2 , 1960 .",
+        "entities": [
+            {
+                "name": "Paris",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Eyes without a Face",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "Nan Shan ( disambiguation )",
+        "entities": [
+            {
+                "name": "Nan Shan ( disambiguation )",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Nan Shan",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "Aq Bolagh-e Morshed",
+        "entities": [
+            {
+                "name": "Aq Bolagh-e Morshed",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Morshed",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "Keene , New Hampshire micropolitan area",
+        "entities": [
+            {
+                "name": "Keene , New Hampshire micropolitan area",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "New Hampshire micropolitan area",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "** Apostolic Vicariate of Rundu ( not exempt )",
+        "entities": [
+            {
+                "name": "Apostolic Vicariate of Rundu",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Vicariate of Rundu",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "1982 Tour de France",
+        "entities": [
+            {
+                "name": "1982 Tour de France",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "France",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "2011-12 , 2013–14 , 2014–15",
+        "entities": [
+            {
+                "name": "2011-12",
+                "type": "location"
+            },
+            {
+                "name": "2013–14",
+                "type": "location"
+            },
+            {
+                "name": "2014–15",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "2011-12 , 2013–14",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "At age 11 his family moved to Auburn , Maine , where he was influenced by the many musicians living there .",
+        "entities": [
+            {
+                "name": "Auburn , Maine",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Auburn",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "( Languages of Malawi )",
+        "entities": [
+            {
+                "name": "Languages of Malawi",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Malawi",
+                "type": "location"
+            }
+        ]
+    }
+]

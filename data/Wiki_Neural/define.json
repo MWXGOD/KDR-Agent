@@ -1,0 +1,5 @@
+[
+  {"person": "Mentions of individual people (proper names) in any language."},
+  {"organization": "Named institutions, companies, agencies, or formal groups."},
+  {"location": "Geographic places such as countries, cities, regions, or natural landmarks."}
+]

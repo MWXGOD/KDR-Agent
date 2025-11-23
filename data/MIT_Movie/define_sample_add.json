@@ -1,0 +1,247 @@
+[
+    {
+        "sentence": "what was the name of a pg 13 adventure gunfight movie that came out in the 1950 s and starred renee oconnor",
+        "entities": [
+            {
+                "name": "pg 13",
+                "type": "rating"
+            },
+            {
+                "name": "adventure",
+                "type": "genre"
+            },
+            {
+                "name": "gunfight",
+                "type": "plot"
+            },
+            {
+                "name": "1950 s",
+                "type": "year"
+            },
+            {
+                "name": "renee oconnor",
+                "type": "actor"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "pg",
+                "type": "rating"
+            },
+            {
+                "name": "adventure gunfight",
+                "type": "plot"
+            },
+            {
+                "name": "1950",
+                "type": "year"
+            },
+            {
+                "name": "renee oconnor",
+                "type": "director"
+            }
+        ]
+    },
+    {
+        "sentence": "list inception",
+        "entities": [
+            {
+                "name": "inception",
+                "type": "title"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "list inception",
+                "type": "title"
+            }
+        ]
+    },
+    {
+        "sentence": "what movie has the songs by brian adams",
+        "entities": [
+            {
+                "name": "brian adams",
+                "type": "song"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "brian adams",
+                "type": "actor"
+            }
+        ]
+    },
+    {
+        "sentence": "what huck botko short was well rated",
+        "entities": [
+            {
+                "name": "huck botko",
+                "type": "director"
+            },
+            {
+                "name": "short",
+                "type": "genre"
+            },
+            {
+                "name": "well rated",
+                "type": "average ratings"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "botko short",
+                "type": "actor"
+            },
+            {
+                "name": "well rated",
+                "type": "genre"
+            }
+        ]
+    },
+    {
+        "sentence": "a movie about a black cadillac",
+        "entities": [
+            {
+                "name": "black cadillac",
+                "type": "title"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "a black cadillac",
+                "type": "title"
+            }
+        ]
+    },
+    {
+        "sentence": "find me a well rated horror movie from the 2000 s",
+        "entities": [
+            {
+                "name": "well rated",
+                "type": "average ratings"
+            },
+            {
+                "name": "horror",
+                "type": "genre"
+            },
+            {
+                "name": "2000 s",
+                "type": "year"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "well rated horror",
+                "type": "average ratings"
+            },
+            {
+                "name": "from the 2000 s",
+                "type": "year"
+            }
+        ]
+    },
+    {
+        "sentence": "who directed the jack lemmon film avanti",
+        "entities": [
+            {
+                "name": "jack lemmon",
+                "type": "actor"
+            },
+            {
+                "name": "avanti",
+                "type": "title"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "jack",
+                "type": "actor"
+            },
+            {
+                "name": "film avanti",
+                "type": "genre"
+            }
+        ]
+    },
+    {
+        "sentence": "what four star rated horror movie was directed by fritz kiersch",
+        "entities": [
+            {
+                "name": "four star",
+                "type": "average ratings"
+            },
+            {
+                "name": "horror",
+                "type": "genre"
+            },
+            {
+                "name": "fritz kiersch",
+                "type": "director"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "four star rated horror movie",
+                "type": "title"
+            },
+            {
+                "name": "fritz kiersch",
+                "type": "title"
+            }
+        ]
+    },
+    {
+        "sentence": "name a earnest borgnine film on a ship",
+        "entities": [
+            {
+                "name": "earnest borgnine",
+                "type": "actor"
+            },
+            {
+                "name": "on a ship",
+                "type": "plot"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "film on a ship",
+                "type": "title"
+            }
+        ]
+    },
+    {
+        "sentence": "who directed open season 3",
+        "entities": [
+            {
+                "name": "open season 3",
+                "type": "title"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "season 3",
+                "type": "year"
+            }
+        ]
+    },
+    {
+        "sentence": "show me a list of meryl streep movies with more than 3 stars",
+        "entities": [
+            {
+                "name": "meryl streep",
+                "type": "actor"
+            },
+            {
+                "name": "more than 3 stars",
+                "type": "average ratings"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "3 stars",
+                "type": "rating"
+            }
+        ]
+    }
+]

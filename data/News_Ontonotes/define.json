@@ -1,0 +1,20 @@
+[
+  {"person": "Names of real or fictional people."},
+  {"national religious political": "Adjectival or nominal mentions of nationalities, religious or political groups."},
+  {"facility": "Buildings, airports, highways, bridges, etc."},
+  {"organization": "Named organizations such as companies, agencies, institutions."},
+  {"geographical social political": "Countries, cities, states, or regions."},
+  {"location": "Non-GPE locations such as mountains, lakes, streets, or natural features."},
+  {"product": "Vehicles, appliances, software, and other tangible artefacts."},
+  {"event": "Named historical or sporting events, wars, disasters."},
+  {"work of art": "Titles of creative works such as books, songs, paintings, films."},
+  {"law": "Named legislations, treaties, or legal statutes."},
+  {"language": "Names of languages."},
+  {"date": "Absolute or relative calendar dates."},
+  {"time": "Times of day or durations."},
+  {"percent": "Percentage expressions."},
+  {"money": "Monetary values with currency."},
+  {"quantity": "Measurements or amounts without currency or percentage."},
+  {"ordinal": "Ordinal numbers indicating order."},
+  {"cardinal": "Cardinal numbers not covered by other numeric types."}
+]

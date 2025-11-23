@@ -1,0 +1,102 @@
+[
+    {
+        "sentence": "Parts of # DelhiNCR receive heavy rain today , just right the next day of # Diwali2020 This is the power of Hindu lord , Lord Ram made it rain in # Delhi today . Provide relief from Choking # delhiairpollution . # JaiShreeRam # DelhiAirQuality # DelhiRains @ bhardwajpunjbi7",
+        "entities": [
+            {
+                "name": "Diwali2020",
+                "type": "event"
+            },
+            {
+                "name": "Hindu lord",
+                "type": "person"
+            },
+            {
+                "name": "Lord Ram",
+                "type": "person"
+            },
+            {
+                "name": "Delhi",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "# Diwali2020",
+                "type": "product"
+            },
+            {
+                "name": "Lord Ram made it rain",
+                "type": "event"
+            },
+            {
+                "name": "delhiairpollution",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "The Top story from {{USERNAME}} : He Has 17,700 Bottles of Hand Sanitizer and Nowhere to Sell Them {{URL}} see more {{URL}}",
+        "entities": [
+            {
+                "name": "He",
+                "type": "person"
+            },
+            {
+                "name": "Hand Sanitizer",
+                "type": "product"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "17,700 Bottles of Hand Sanitizer",
+                "type": "event"
+            },
+            {
+                "name": "Top story",
+                "type": "product"
+            }
+        ]
+    },
+    {
+        "sentence": "Thou o Lord by Man O War Choir {{URL}} via {@YouTube@} There 's a me in this choir and I miss being with my choir family ! If you see me comment below !",
+        "entities": [
+            {
+                "name": "Thou o Lord",
+                "type": "creative work"
+            },
+            {
+                "name": "Man O War Choir",
+                "type": "group"
+            },
+            {
+                "name": "YouTube",
+                "type": "product"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Lord",
+                "type": "person"
+            },
+            {
+                "name": "YouTube",
+                "type": "event"
+            }
+        ]
+    },
+    {
+        "sentence": "Hi . Looking to join the revolution at {{USERNAME}} . Please send me an invitation for # argentas {{URL}}",
+        "entities": [
+            {
+                "name": "argentas",
+                "type": "corporation"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "argentas",
+                "type": "location"
+            }
+        ]
+    }
+]

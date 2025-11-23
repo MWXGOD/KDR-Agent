@@ -1,0 +1,5 @@
+[
+  {"person": "Mentions of real-world individuals, including personal names and Twitter handles referring to persons in context."},
+  {"organization": "Names of companies, groups, agencies, sports teams, or Twitter handles used as official organizational accounts."},
+  {"location": "Geographical places such as cities, countries, regions, or landmarks."}
+]

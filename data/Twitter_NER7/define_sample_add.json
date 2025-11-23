@@ -1,0 +1,370 @@
+[
+    {
+        "sentence": "DREW BREES RETIRES . Check out photos from his career . {{URL}} via {@NOLA.com@}",
+        "entities": [
+            {
+                "name": "DREW BREES",
+                "type": "person"
+            },
+            {
+                "name": "NOLA.com",
+                "type": "corporation"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "DREW BREES RETIRES",
+                "type": "event"
+            },
+            {
+                "name": "Check out photos",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "//@ JustANormalMax _ bronhdhfnd are you awake or not i ’m scared uh like i ’ve been up for 20 minutes i ’m just sitting on ur bed i ’m scared to go down there lmAO UHHH",
+        "entities": [
+            {
+                "name": "JustANormalMax _ bronhdhfnd",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "JustANormalMax",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Movers and shakers and history makers : Our 20 people of the decade . Worked on this one for {@The Herald@} magazine with {{USERNAME}} {{USERNAME}} {{USERNAME}} {{USERNAME}} {{USERNAME}} & Mark Smith {{URL}}",
+        "entities": [
+            {
+                "name": "people",
+                "type": "person"
+            },
+            {
+                "name": "The Herald",
+                "type": "group"
+            },
+            {
+                "name": "Mark Smith",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "The Herald magazine",
+                "type": "product"
+            },
+            {
+                "name": "history makers",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "I 'm so proud of you , Joo . I love you so much bb # MonstaXLiveWithLuv {@몬스타엑스_MONSTA X@}",
+        "entities": [
+            {
+                "name": "Joo",
+                "type": "person"
+            },
+            {
+                "name": "몬스타엑스_MONSTA X",
+                "type": "group"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "# MonstaXLiveWithLuv",
+                "type": "product"
+            }
+        ]
+    },
+    {
+        "sentence": "Mark 9:9,10 \" Now as they came down from the mountain , He commanded them that they should tell no one the things they had seen , till the Son of Man had risen from the dead . 10 . So they kept this word to themselves , questioning what the rising from the dead meant . \" {{USERNAME}}",
+        "entities": [
+            {
+                "name": "Mark",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Son of Man",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "Legal Experts Predict Ivanka Trump Will Be Indicted On Fraud Charges In New York {{URL}} via {{USERNAME}} The entire Trump family is nothing but a criminal enterprise .",
+        "entities": [
+            {
+                "name": "Ivanka Trump",
+                "type": "person"
+            },
+            {
+                "name": "New York",
+                "type": "location"
+            },
+            {
+                "name": "Trump family",
+                "type": "group"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Legal Experts",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "Latest on the government ’s response to coronavirus ; w / ⁦ {@Brent Kendall@} ⁩ and a team of {@The Wall Street Journal@} reporters {{URL}}",
+        "entities": [
+            {
+                "name": "Brent Kendall",
+                "type": "person"
+            },
+            {
+                "name": "The Wall Street Journal",
+                "type": "product"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "coronavirus",
+                "type": "product"
+            }
+        ]
+    },
+    {
+        "sentence": "So {{USERNAME}} bought a yellow and black teddy bear with chocolate .. . wow {{USERNAME}} {{USERNAME}} a young king has fallen",
+        "entities": [
+            {
+                "name": "chocolate",
+                "type": "product"
+            },
+            {
+                "name": "young king",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "yellow and black teddy bear",
+                "type": "product"
+            }
+        ]
+    },
+    {
+        "sentence": "5 0 of the goals Danny Ings has ever scored in the Premier League have been for {@Southampton FC@} this season ( 21 / 42 ) # SOUSHU",
+        "entities": [
+            {
+                "name": "Danny Ings",
+                "type": "person"
+            },
+            {
+                "name": "Premier League",
+                "type": "corporation"
+            },
+            {
+                "name": "Southampton FC",
+                "type": "group"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Premier",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "Hope everyone had a great Christmas ! Back to football today & it ’s another important game for Rangers against Kilmarnock . Six points going into the winter break would be a big boost . {@The Athletic UK@} are running a Boxing Day sale if you fancy it . 60 % off : {{URL}}",
+        "entities": [
+            {
+                "name": "Christmas",
+                "type": "event"
+            },
+            {
+                "name": "football",
+                "type": "event"
+            },
+            {
+                "name": "Rangers",
+                "type": "group"
+            },
+            {
+                "name": "Kilmarnock",
+                "type": "group"
+            },
+            {
+                "name": "The Athletic UK",
+                "type": "product"
+            },
+            {
+                "name": "Boxing Day",
+                "type": "event"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Six points",
+                "type": "product"
+            }
+        ]
+    },
+    {
+        "sentence": "Happy Greek Easter {@Maria Stephanos@} may you have a blessed day with the promise HE makes to us .",
+        "entities": [
+            {
+                "name": "Happy Greek Easter",
+                "type": "event"
+            },
+            {
+                "name": "Maria Stephanos",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "HE",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "Some kiddo with the username Megoomine on {@Rainbow Six Siege@} {@Ubisoft Support@} harassed me the entire game for being gay ... . Happy Pride Month to me # rainbow6siege",
+        "entities": [
+            {
+                "name": "Megoomine",
+                "type": "person"
+            },
+            {
+                "name": "Rainbow Six Siege",
+                "type": "person"
+            },
+            {
+                "name": "Ubisoft Support",
+                "type": "corporation"
+            },
+            {
+                "name": "me",
+                "type": "person"
+            },
+            {
+                "name": "Happy Pride Month",
+                "type": "event"
+            },
+            {
+                "name": "me",
+                "type": "person"
+            },
+            {
+                "name": "rainbow6siege",
+                "type": "creative work"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Rainbow",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": ". {@Greta Thunberg@} is doing more for this planet than literally EVERY world leader , revolutionary , and even Captain Planet . She 's going into the public eye and calling politicians out on their BS . I hope she succeeds in her quest to help get people more aware in climate change .",
+        "entities": [
+            {
+                "name": "Greta Thunberg",
+                "type": "person"
+            },
+            {
+                "name": "Captain Planet",
+                "type": "group"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "world leader",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "Greece Green - 4pm in Calabasas freestyle ( Official Music Video ) {{URL}} via {@YouTube@} Check it out word to {@Drizzy@}",
+        "entities": [
+            {
+                "name": "Greece Green",
+                "type": "creative work"
+            },
+            {
+                "name": "Calabasas",
+                "type": "location"
+            },
+            {
+                "name": "YouTube",
+                "type": "product"
+            },
+            {
+                "name": "Drizzy",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Official Music Video",
+                "type": "product"
+            }
+        ]
+    },
+    {
+        "sentence": "Check out Olathe North vs Lawrence Free State Game Highlights - Sept . 10 , 2019 by Olathe North High School - Varsity Volleyball on {@Hudl@} {{URL}} # hudl",
+        "entities": [
+            {
+                "name": "Olathe North vs Lawrence Free State Game",
+                "type": "event"
+            },
+            {
+                "name": "Olathe North High School",
+                "type": "creative work"
+            },
+            {
+                "name": "Varsity Volleyball",
+                "type": "creative work"
+            },
+            {
+                "name": "Hudl",
+                "type": "corporation"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Game Highlights",
+                "type": "creative work"
+            }
+        ]
+    },
+    {
+        "sentence": "Ggs to all the boys that played the nge with me special thanx to the guys that made it possible to even play today {{USERNAME}} {@Nathan@} know we ai n’t do too hot but it ’s all good regain keep turning up !",
+        "entities": [
+            {
+                "name": "boys",
+                "type": "person"
+            },
+            {
+                "name": "Nathan",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "nge",
+                "type": "event"
+            }
+        ]
+    }
+]

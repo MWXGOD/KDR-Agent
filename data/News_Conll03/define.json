@@ -1,0 +1,6 @@
+[
+  {"person": "Names of specific people (real-world individuals)."},
+  {"organization": "Names of organizations, corporations, agencies, institutions."},
+  {"location": "Names of geographic locations such as cities, countries, rivers."},
+  {"else": "Proper names or named entities not covered by PER, ORG, or LOC (e.g., nationalities, events, works)."}
+]

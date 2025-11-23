@@ -1,0 +1,20 @@
+[
+    "date",
+    "organization",
+    "person",
+    "geographical social political",
+    "national religious political",
+    "facility",
+    "cardinal",
+    "location",
+    "work of art",
+    "law",
+    "event",
+    "product",
+    "ordinal",
+    "percent",
+    "time",
+    "quantity",
+    "money",
+    "language"
+]

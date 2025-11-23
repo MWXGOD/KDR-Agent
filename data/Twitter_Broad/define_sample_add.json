@@ -1,0 +1,256 @@
+[
+    {
+        "sentence": "Then the farmer hits it on the head with a shovel & that 's how we get hamburgers !",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "farmer",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "Met chief calls for new anti-terror powers and backs ' presumption of guilt ' http://t.co/bf4QzaCuRi",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "new anti-terror",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Just heard that QPR have n't won an FA Cup game since January 2001 ? ? Wowza",
+        "entities": [
+            {
+                "name": "QPR",
+                "type": "organization"
+            },
+            {
+                "name": "FA Cup",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "QPR",
+                "type": "person"
+            },
+            {
+                "name": "FA Cup game",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "RT @ surfacefestival : @ Estrella_Rocks @ Garageglasgow : )",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "RT",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Hate vodafone so much",
+        "entities": [
+            {
+                "name": "vodafone",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "vodafone",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "The encryption bug that has the Internet on high alert also affects the equipment connecting the Web . http://t.co/UQNfNnZ5V3",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "Web",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "feel sorry for @ jessicalowndes in 90210 .",
+        "entities": [
+            {
+                "name": "jessicalowndes",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "jessicalowndes in 90210",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "וַיֶּאְסֹר אֲבִיָּה אֶת־הַמִּלְחָמָה בְּחַיִל גִּבֹּורֵי מִלְחָמָה אַרְבַּע־מֵאֹות אֶלֶף אִישׁ בָּחוּר ס וְיָרָבְעָם עָרַךְ עִמֹּו ...",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "ֹּו",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Nt lookin forward to 26th",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "Nt",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "Alesha Dixon joining # bgt ? ! # majorturnoff",
+        "entities": [
+            {
+                "name": "Alesha Dixon",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Dixon",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Phil Spector photos show how prison is taking its toll http://t.co/EX0SmNWJ8O ( AP ) http://t.co/SS0aNStmOX",
+        "entities": [
+            {
+                "name": "Phil Spector",
+                "type": "person"
+            },
+            {
+                "name": "AP",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "prison",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Retired University of Sydney media lecturer tells all about bias . http://t.co/OwHGiiHY3E http://t.co/AWTQa0TH47",
+        "entities": [
+            {
+                "name": "University of Sydney",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "media lecturer",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Crew Love cover ... http://t.co/GZrMWz3L & lt ; -- - He sings there 's a room full of ninjas , what you following me for ... EPIC !",
+        "entities": [
+            {
+                "name": "Crew Love",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Love cover",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Some one buy me a onesie ? # depression http://t.co/Oqre9hdO",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "depression",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Good night people xxx",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "Good night",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Nadal broke Djokovic 's serve ! Nadal has got this !",
+        "entities": [
+            {
+                "name": "Nadal",
+                "type": "person"
+            },
+            {
+                "name": "Djokovic",
+                "type": "person"
+            },
+            {
+                "name": "Nadal",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Djokovic 's serve",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Competition in wireless sector was slowed by failure to unite new entrants , says Wind Mobile CEO ( via @ DavidPaddon ) http://t.co/Nv2PkwGsam",
+        "entities": [
+            {
+                "name": "Wind Mobile",
+                "type": "organization"
+            },
+            {
+                "name": "DavidPaddon",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Wind Mobile CEO",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "ECB leaves key rate unchanged at 0 . 25 % http://t.co/ERuwcHcGLt",
+        "entities": [
+            {
+                "name": "ECB",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "ECB leaves",
+                "type": "organization"
+            }
+        ]
+    }
+]

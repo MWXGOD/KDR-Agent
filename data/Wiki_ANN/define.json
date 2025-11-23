@@ -1,0 +1,5 @@
+[
+  {"person": "Mentions of real-world individuals, including proper names in any supported language."},
+  {"organization": "Names of institutions, companies, agencies, or other formal groups."},
+  {"location": "Names of geographic entities such as countries, cities, regions, and landmarks."}
+]

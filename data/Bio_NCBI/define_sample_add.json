@@ -1,0 +1,280 @@
+[
+    {
+        "sentence": "Population genetic studies reveal that this mutation is tightly linked to restriction fragment length polymorphism haplotype 4 , which is the predominant haplotype of the PAH locus in the Oriental population .",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "restriction fragment length",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "Therefore , the accumulation of the types of mutations in Japanese patients with WD will facilitate the fast and effective genetic diagnosis of WD in Japanese patients . .",
+        "entities": [
+            {
+                "name": "WD",
+                "type": "Disease"
+            },
+            {
+                "name": "WD",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "WD",
+                "type": "Chemical"
+            },
+            {
+                "name": "Japanese patients with WD",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "Both of these genes map in the same position on mouse chromosome 5 in a region associated with ancestral chromosomal rearrangements and show no recombination with D5H4S43 , D5H4S115 , and D5H4S62 , the murine homologues of D4S43 , D4S115 , and D4S62 , respectively .",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "mouse chromosome 5",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "The single family with a BRCA2 mutation had the breast - ovarian cancer syndrome .",
+        "entities": [
+            {
+                "name": "breast - ovarian cancer syndrome",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "ovarian cancer syndrome",
+                "type": "Chemical"
+            },
+            {
+                "name": "BRCA2 mutation",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "The BRCA1 gene is expressed in numerous tissues , including breast and ovary , and encodes a predicted protein of 1863 amino acids .",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "BRCA1 gene",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "Post - mortem examination of one of the patients showed extensive myelin loss in these columns .",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "myelin loss",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "XK encodes a novel protein with structural characteristics of prokaryotic and eukaryotic membrane transport proteins .",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "membrane transport proteins",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "We therefore hypothesized that A - T is due to oxidative damage resulting from loss of function of the A - T gene product .",
+        "entities": [
+            {
+                "name": "A - T",
+                "type": "Disease"
+            },
+            {
+                "name": "A - T",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "A - T",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "Activation relieves an autoinhibitory contact between the GTPase - binding domain and the carboxy - terminal region of WASP proteins .",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "GTPase - binding domain",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "Together with the fact that both germ - line and sporadic APC mutations cluster in the central region of the APC gene , this points to a dominant negative effect of certain APC mutants .",
+        "entities": [
+            {
+                "name": "APC",
+                "type": "Disease"
+            },
+            {
+                "name": "APC",
+                "type": "Disease"
+            },
+            {
+                "name": "APC",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "APC gene",
+                "type": "Chemical"
+            },
+            {
+                "name": "APC",
+                "type": "Chemical"
+            },
+            {
+                "name": "dominant negative effect",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "An alternative or prior event to oncogene activation in tumour formation may be the inactivation of a putative tumour suppressor which can be associated with both the inherited and sporadic forms of the cancer .",
+        "entities": [
+            {
+                "name": "tumour",
+                "type": "Disease"
+            },
+            {
+                "name": "tumour",
+                "type": "Disease"
+            },
+            {
+                "name": "inherited and sporadic forms of the cancer",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "oncogene activation",
+                "type": "Disease"
+            },
+            {
+                "name": "tumour",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "A major gene locus for PLS has been mapped to a 2 .",
+        "entities": [
+            {
+                "name": "PLS",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "PLS",
+                "type": "Chemical"
+            },
+            {
+                "name": "gene locus for PLS",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "Aminoglycoside antibiotics restore dystrophin function to skeletal muscles of mdx mice .",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "Aminoglycoside antibiotics",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "G6PD Konan had fast electrophoretic mobility as compared with normal levels , G6PD Kiwa had slightly elevated electrophoretic mobility , and G6PD Kamiube had normal electrophoretic mobility .",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "G6PD Kiwa",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "Our combined findings indicate that intergenerational length changes in the unstable CTG repeat are most likely to occur during early embryonic mitotic divisions in both somatic and germ - line tissue formation .",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "unstable CTG repeat",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "We propose that the ( CUG ) n is an essential cis acting element for this splicing event .",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "splicing event",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "2 and are shown to be deleted in DNA of one of two patients examined with the PWS .",
+        "entities": [
+            {
+                "name": "PWS",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "DNA of one of two patients",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "We conclude that ATM heterozygotes have an approximately ninefold - increased risk of developing a type of breast cancer characterized by frequent bilateral occurrence , early age at onset , and long - term survival .",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "ATM heterozygotes",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "This mutation segregates with HMS in four nuclear families .",
+        "entities": [
+            {
+                "name": "HMS",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "mutation segregates with HMS",
+                "type": "Disease"
+            }
+        ]
+    }
+]

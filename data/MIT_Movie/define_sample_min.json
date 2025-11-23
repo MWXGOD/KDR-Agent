@@ -1,0 +1,221 @@
+[
+    {
+        "sentence": "what year did scary movie release",
+        "entities": [
+            {
+                "name": "scary movie",
+                "type": "title"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "scary",
+                "type": "title"
+            },
+            {
+                "name": "scary movie",
+                "type": "director"
+            }
+        ]
+    },
+    {
+        "sentence": "what unrated war movie came out this year that got average ratings",
+        "entities": [
+            {
+                "name": "unrated",
+                "type": "rating"
+            },
+            {
+                "name": "war",
+                "type": "genre"
+            },
+            {
+                "name": "this year",
+                "type": "year"
+            },
+            {
+                "name": "average",
+                "type": "average ratings"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "unrated war",
+                "type": "genre"
+            },
+            {
+                "name": "average ratings",
+                "type": "rating"
+            }
+        ]
+    },
+    {
+        "sentence": "i want to see a sci fi movie about apes",
+        "entities": [
+            {
+                "name": "sci fi",
+                "type": "genre"
+            },
+            {
+                "name": "apes",
+                "type": "plot"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "sci",
+                "type": "genre"
+            },
+            {
+                "name": "apes",
+                "type": "genre"
+            }
+        ]
+    },
+    {
+        "sentence": "who first played james bond",
+        "entities": [
+            {
+                "name": "james bond",
+                "type": "character"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "james",
+                "type": "actor"
+            },
+            {
+                "name": "played james bond",
+                "type": "title"
+            }
+        ]
+    },
+    {
+        "sentence": "how many pg rated eight rating movies in the 2000 s did richard ridings star in",
+        "entities": [
+            {
+                "name": "pg",
+                "type": "rating"
+            },
+            {
+                "name": "eight",
+                "type": "average ratings"
+            },
+            {
+                "name": "2000 s",
+                "type": "year"
+            },
+            {
+                "name": "richard ridings",
+                "type": "actor"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "eight rating movies",
+                "type": "genre"
+            },
+            {
+                "name": "richard ridings",
+                "type": "character"
+            }
+        ]
+    },
+    {
+        "sentence": "name a fantasy movie that was directed by john ford",
+        "entities": [
+            {
+                "name": "fantasy",
+                "type": "genre"
+            },
+            {
+                "name": "john ford",
+                "type": "director"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "fantasy movie",
+                "type": "plot"
+            },
+            {
+                "name": "directed by john ford",
+                "type": "director"
+            }
+        ]
+    },
+    {
+        "sentence": "is there a five star movie with the song love the one youre with",
+        "entities": [
+            {
+                "name": "five star",
+                "type": "average ratings"
+            },
+            {
+                "name": "love the one youre with",
+                "type": "song"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "the song love the one youre with",
+                "type": "song"
+            },
+            {
+                "name": "love the one youre with",
+                "type": "actor"
+            }
+        ]
+    },
+    {
+        "sentence": "show good horror films from 2012",
+        "entities": [
+            {
+                "name": "good",
+                "type": "review"
+            },
+            {
+                "name": "horror",
+                "type": "genre"
+            },
+            {
+                "name": "2012",
+                "type": "year"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "good horror",
+                "type": "title"
+            },
+            {
+                "name": "films from 2012",
+                "type": "director"
+            }
+        ]
+    },
+    {
+        "sentence": "funniest trailer for new movie",
+        "entities": [
+            {
+                "name": "funniest",
+                "type": "review"
+            },
+            {
+                "name": "trailer",
+                "type": "trailer"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "trailer",
+                "type": "title"
+            },
+            {
+                "name": "new movie",
+                "type": "trailer"
+            }
+        ]
+    }
+]

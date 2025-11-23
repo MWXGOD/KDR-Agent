@@ -1,0 +1,318 @@
+[
+    {
+        "sentence": "LAST JCR LAST JBRI A LAST NIS",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "JBRI",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "Iraq has balked at the number of U.N. staff needed to implement the oil-for-food deal , blaming the United States for insisting on stringent monitoring .",
+        "entities": [
+            {
+                "name": "United States",
+                "type": "location"
+            },
+            {
+                "name": "Iraq",
+                "type": "location"
+            },
+            {
+                "name": "U.N.",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "States",
+                "type": "organization"
+            },
+            {
+                "name": "U.N. staff",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Allensbach May 15 38.5 32.5 8.1 12.0 4.4",
+        "entities": [
+            {
+                "name": "Allensbach",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "May",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Senior Hong Kong civil servants were given the go-ahead on Thursday to challenge a government ban on them standing for the Beijing-backed panel to choose the territory 's first post-handover leader and lawmakers .",
+        "entities": [
+            {
+                "name": "Hong Kong",
+                "type": "location"
+            },
+            {
+                "name": "Beijing-backed",
+                "type": "else"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Hong",
+                "type": "organization"
+            },
+            {
+                "name": "Beijing-backed",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "Commonwealth foreign ministers are to meet in London on Wednesday to discuss what action to take , after a visit to Nigeria was called off when the government imposed strict rules on whom the mission would be allowed to see .",
+        "entities": [
+            {
+                "name": "London",
+                "type": "location"
+            },
+            {
+                "name": "Nigeria",
+                "type": "location"
+            },
+            {
+                "name": "Commonwealth",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "foreign ministers",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Banik Ostrava 3 FK Teplice 1",
+        "entities": [
+            {
+                "name": "Banik Ostrava",
+                "type": "organization"
+            },
+            {
+                "name": "FK Teplice",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Teplice",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "26. Finland 8.09",
+        "entities": [
+            {
+                "name": "Finland",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Finland 8.09",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Western powers regard diplomatic normalisation between Croatia and Serbia , twin pillars of the old multinational federal Yugoslavia , as a crucial step towards a lasting peace in the Balkans .",
+        "entities": [
+            {
+                "name": "Serbia",
+                "type": "location"
+            },
+            {
+                "name": "Yugoslavia",
+                "type": "location"
+            },
+            {
+                "name": "Croatia",
+                "type": "location"
+            },
+            {
+                "name": "Western",
+                "type": "else"
+            },
+            {
+                "name": "Balkans",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "federal Yugoslavia",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "The victim was Dai Houying , who wrote about China 's 1966-76 leftist Cultural Revolution and the lives of Chinese intellectuals , the official said .",
+        "entities": [
+            {
+                "name": "Dai Houying",
+                "type": "person"
+            },
+            {
+                "name": "China",
+                "type": "location"
+            },
+            {
+                "name": "Chinese",
+                "type": "else"
+            },
+            {
+                "name": "Cultural Revolution",
+                "type": "else"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Cultural Revolution",
+                "type": "event"
+            }
+        ]
+    },
+    {
+        "sentence": "Doctor Masserigne Ndiaye said medical staff were overwhelmed with work . \"",
+        "entities": [
+            {
+                "name": "Masserigne Ndiaye",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Doctor Masserigne",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Atheist China officially bans missionary activities but often turns a blind eye to religious activities of people nominally employed as foreign language teachers , particularly in remote areas that are unable to attract other candidates .",
+        "entities": [
+            {
+                "name": "China",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Atheist China",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "Commenting on the continued struggle to get control of German piston maker Kolbenschmidt , which has been hampered by regulatory obstacles , Hope said T&N 's confidence \" continues to improve \" that it may eventually be able to proceed .",
+        "entities": [
+            {
+                "name": "T&N",
+                "type": "organization"
+            },
+            {
+                "name": "German",
+                "type": "else"
+            },
+            {
+                "name": "Hope",
+                "type": "person"
+            },
+            {
+                "name": "Kolbenschmidt",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Kolbenschmidt , which",
+                "type": "person"
+            },
+            {
+                "name": "Kolbenschmidt",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "Still , markets may have little to fear from any Rubin successor because the firm dollar policy has yielded positive results .",
+        "entities": [
+            {
+                "name": "Rubin",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Rubin successor",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "He said a document would be completed in an hour 's time for signature by the two sides , who were working on a \" day-by-day schedule to stop the war in Chechnya . \"",
+        "entities": [
+            {
+                "name": "Chechnya",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Chechnya",
+                "type": "event"
+            }
+        ]
+    },
+    {
+        "sentence": "PHILADELPHIA 52 76 .406 28",
+        "entities": [
+            {
+                "name": "PHILADELPHIA",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "PHILADELPHIA 52",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "Results from the",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "Results",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "Put those two things together and you get a loss . \"",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "you",
+                "type": "location"
+            }
+        ]
+    }
+]

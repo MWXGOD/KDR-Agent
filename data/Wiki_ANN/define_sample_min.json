@@ -1,0 +1,75 @@
+[
+    {
+        "sentence": "He started his writing career as a newspaperman and later married Eloise Jarvis McGraw , also an author .",
+        "entities": [
+            {
+                "name": "Eloise Jarvis McGraw",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Eloise",
+                "type": "location"
+            },
+            {
+                "name": "Jarvis McGraw",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Wisconsin Restaurant Association Education Foundation",
+        "entities": [
+            {
+                "name": "Wisconsin Restaurant Association Education Foundation",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Wisconsin Restaurant Association",
+                "type": "location"
+            },
+            {
+                "name": "Education Foundation",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Born in Castelvetrano , Trapani and raised in Catania , he moved to Madrid to keep up his busy career .",
+        "entities": [
+            {
+                "name": "Castelvetrano",
+                "type": "location"
+            },
+            {
+                "name": "Trapani",
+                "type": "location"
+            },
+            {
+                "name": "Catania",
+                "type": "location"
+            },
+            {
+                "name": "Madrid",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Castelvetrano , Trapani",
+                "type": "person"
+            },
+            {
+                "name": "Catania",
+                "type": "organization"
+            },
+            {
+                "name": "Madrid",
+                "type": "person"
+            }
+        ]
+    }
+]

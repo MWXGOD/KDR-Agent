@@ -1,0 +1,433 @@
+[
+    {
+        "sentence": "Pathologically , granular cytoplasmic changes were found in cardiac myocytes , indicating enlarged , damaged mitochondria .",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "cardiac myocytes",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "Pharmacokinetic interactions of curcumin with phenobarbitone and carbamazepine were also studied .",
+        "entities": [
+            {
+                "name": "curcumin",
+                "type": "Chemical"
+            },
+            {
+                "name": "phenobarbitone",
+                "type": "Chemical"
+            },
+            {
+                "name": "carbamazepine",
+                "type": "Chemical"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "curcumin with phenobarbitone",
+                "type": "Chemical"
+            },
+            {
+                "name": "phenobarbitone and carbamazepine",
+                "type": "Chemical"
+            },
+            {
+                "name": "Pharmacokinetic",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "The response of the animals was evaluated using electroencephalography and by monitoring the clinical behaviour during and after recovery from anaesthesia .",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "electroencephalography",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "Peripheral neuropathy has been noted as a complication of therapy with perhexiline maleate , a drug widely used in France ( and in clinical trials in the United States ) for the prophylactic treatment of angina pectoris .",
+        "entities": [
+            {
+                "name": "Peripheral neuropathy",
+                "type": "Disease"
+            },
+            {
+                "name": "perhexiline maleate",
+                "type": "Chemical"
+            },
+            {
+                "name": "angina pectoris",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "neuropathy",
+                "type": "Chemical"
+            },
+            {
+                "name": "perhexiline maleate",
+                "type": "Disease"
+            },
+            {
+                "name": "treatment of angina pectoris",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "Effect of some anticancer drugs and combined chemotherapy on renal toxicity .",
+        "entities": [
+            {
+                "name": "renal toxicity",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "anticancer drugs",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "METHODS : Using the French Pharmacovigilance database , we selected the cases of confusion reported since 1985 with valproic acid .",
+        "entities": [
+            {
+                "name": "confusion",
+                "type": "Disease"
+            },
+            {
+                "name": "valproic acid",
+                "type": "Chemical"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "confusion",
+                "type": "Chemical"
+            },
+            {
+                "name": "valproic acid",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "These lemon essential oils showed strong ability to improve memory impaired by scopolamine ; however , s - perillyl alcohol relieved the deficit of associative memory in PA only , and did not improve non - associative memory significantly in OFH .",
+        "entities": [
+            {
+                "name": "memory impaired",
+                "type": "Disease"
+            },
+            {
+                "name": "scopolamine",
+                "type": "Chemical"
+            },
+            {
+                "name": "s - perillyl alcohol",
+                "type": "Chemical"
+            },
+            {
+                "name": "deficit of associative memory",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "improve memory impaired",
+                "type": "Disease"
+            },
+            {
+                "name": "impaired by scopolamine",
+                "type": "Chemical"
+            },
+            {
+                "name": "s - perillyl alcohol",
+                "type": "Disease"
+            },
+            {
+                "name": "deficit of associative memory",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "1 .",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "1 .",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "Learning and memory deficits in ecstasy users and their neural correlates during a face - learning task .",
+        "entities": [
+            {
+                "name": "Learning and memory deficits",
+                "type": "Disease"
+            },
+            {
+                "name": "ecstasy",
+                "type": "Chemical"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Learning and memory deficits",
+                "type": "Chemical"
+            },
+            {
+                "name": "ecstasy",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "CONCLUSIONS : The venlafaxine overdose in our patient resulted in a single episode of generalized seizure but elicited no further sequelae .",
+        "entities": [
+            {
+                "name": "venlafaxine",
+                "type": "Chemical"
+            },
+            {
+                "name": "overdose",
+                "type": "Disease"
+            },
+            {
+                "name": "seizure",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "The venlafaxine",
+                "type": "Chemical"
+            },
+            {
+                "name": "venlafaxine overdose",
+                "type": "Chemical"
+            },
+            {
+                "name": "sequelae",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "A history of angioedema secondary to lisinopril therapy was elicited .",
+        "entities": [
+            {
+                "name": "angioedema",
+                "type": "Disease"
+            },
+            {
+                "name": "lisinopril",
+                "type": "Chemical"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "angioedema secondary",
+                "type": "Disease"
+            },
+            {
+                "name": "therapy",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "Central nervous system complications during treatment of acute lymphoblastic leukemia in a single pediatric institution .",
+        "entities": [
+            {
+                "name": "Central nervous system complications",
+                "type": "Disease"
+            },
+            {
+                "name": "acute lymphoblastic leukemia",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Central nervous system complications",
+                "type": "Chemical"
+            },
+            {
+                "name": "acute lymphoblastic leukemia",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "Twenty - five women were given raloxifene hydrochloride ( 60 mg / day ) plus calcium ( 500 mg / day ) .",
+        "entities": [
+            {
+                "name": "raloxifene hydrochloride",
+                "type": "Chemical"
+            },
+            {
+                "name": "calcium",
+                "type": "Chemical"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "raloxifene",
+                "type": "Disease"
+            },
+            {
+                "name": "calcium",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "RESULTS : Progressive abstinence from cocaine was associated with worsening of all measured polysomnographic sleep outcomes .",
+        "entities": [
+            {
+                "name": "cocaine",
+                "type": "Chemical"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "from cocaine",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "Dexamethasone had no significant effect on the incidence or severity of postoperative nausea and vomiting .",
+        "entities": [
+            {
+                "name": "Dexamethasone",
+                "type": "Chemical"
+            },
+            {
+                "name": "postoperative nausea and vomiting",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Dexamethasone",
+                "type": "Disease"
+            },
+            {
+                "name": "postoperative nausea and vomiting",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "We investigated an epidemic of liver disease in nine industrial workers who had had repeated accidental exposure to a mixture of 1 , 1 - dichloro - 2 , 2 , 2 - trifluoroethane ( HCFC 123 ) and 1 - chloro - 1 , 2 , 2 , 2 - tetrafluoroethane ( HCFC 124 ) .",
+        "entities": [
+            {
+                "name": "liver disease",
+                "type": "Disease"
+            },
+            {
+                "name": "1 , 1 - dichloro - 2 , 2 , 2 - trifluoroethane",
+                "type": "Chemical"
+            },
+            {
+                "name": "HCFC 123",
+                "type": "Chemical"
+            },
+            {
+                "name": "1 - chloro - 1 , 2 , 2 , 2 - tetrafluoroethane",
+                "type": "Chemical"
+            },
+            {
+                "name": "HCFC 124",
+                "type": "Chemical"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "epidemic of liver disease",
+                "type": "Disease"
+            },
+            {
+                "name": "trifluoroethane",
+                "type": "Disease"
+            },
+            {
+                "name": "HCFC",
+                "type": "Disease"
+            },
+            {
+                "name": "2 - tetrafluoroethane",
+                "type": "Chemical"
+            },
+            {
+                "name": "HCFC 124",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "The findings of this study indicate that the drug is able to antagonize impairment of attention and memory induced by scopolamine .",
+        "entities": [
+            {
+                "name": "impairment of attention and memory",
+                "type": "Disease"
+            },
+            {
+                "name": "scopolamine",
+                "type": "Chemical"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "impairment of attention",
+                "type": "Disease"
+            },
+            {
+                "name": "induced by scopolamine",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "Enhancement of morphine antinociception by dextromethorphan was seen in both males and females in the acute pain models , with the magnitude of this effect being greater in males .",
+        "entities": [
+            {
+                "name": "morphine",
+                "type": "Chemical"
+            },
+            {
+                "name": "dextromethorphan",
+                "type": "Chemical"
+            },
+            {
+                "name": "acute pain",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "morphine",
+                "type": "Disease"
+            },
+            {
+                "name": "dextromethorphan",
+                "type": "Disease"
+            },
+            {
+                "name": "acute pain",
+                "type": "Chemical"
+            }
+        ]
+    }
+]

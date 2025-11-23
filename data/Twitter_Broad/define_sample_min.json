@@ -1,0 +1,52 @@
+[
+    {
+        "sentence": "Ukraine president Petro Poroshenko calls snap election for October http://t.co/9yIgKulYyZ",
+        "entities": [
+            {
+                "name": "Ukraine",
+                "type": "location"
+            },
+            {
+                "name": "Petro Poroshenko",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Ukraine president",
+                "type": "person"
+            },
+            {
+                "name": "snap election for October",
+                "type": "event"
+            }
+        ]
+    },
+    {
+        "sentence": "WA , Victorian Powerball players split $ 50m http://t.co/REsDbijAaj",
+        "entities": [
+            {
+                "name": "WA",
+                "type": "location"
+            },
+            {
+                "name": "Victorian",
+                "type": "location"
+            },
+            {
+                "name": "Powerball",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Victorian Powerball players",
+                "type": "location"
+            },
+            {
+                "name": "Powerball",
+                "type": "location"
+            }
+        ]
+    }
+]

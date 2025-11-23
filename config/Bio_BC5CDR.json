@@ -1,0 +1,8 @@
+{
+    "dataset": "Bio_BC5CDR",
+    "test_file_path": "./data/Bio_BC5CDR/test_sample.json",
+    "save_file_path": "./data/Bio_BC5CDR/test_sample.json",
+    "model_name": "gpt-4o",
+    "api_keys": "sk-*********************************",
+    "max_loop":10
+}

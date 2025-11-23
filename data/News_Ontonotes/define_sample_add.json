@@ -1,0 +1,72 @@
+[
+    {
+        "sentence": "Listen",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "Listen",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "What follows are the values of a Silicon Valley new - age knowledge - based business creator :",
+        "entities": [
+            {
+                "name": "Silicon Valley",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Silicon",
+                "type": "person"
+            },
+            {
+                "name": "Valley new - age knowledge",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "The people at the uh publisher heard about it saw it and said Hey somebody 's got a hell of a book .",
+        "entities": [],
+        "false_entities": [
+            {
+                "name": "uh publisher",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Those allies included Politburo members Guenter Mittag , who has long headed economic affairs , and Joachim Hermann , chief of information policy .",
+        "entities": [
+            {
+                "name": "Politburo",
+                "type": "organization"
+            },
+            {
+                "name": "Guenter Mittag",
+                "type": "person"
+            },
+            {
+                "name": "Joachim Hermann",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Politburo members",
+                "type": "person"
+            },
+            {
+                "name": "Guenter",
+                "type": "person"
+            },
+            {
+                "name": "information policy",
+                "type": "organization"
+            }
+        ]
+    }
+]

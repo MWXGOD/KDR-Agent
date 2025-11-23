@@ -1,0 +1,45 @@
+[
+    {
+        "sentence": "No necrosis was observed in cells treated with NCQ436 but NCQ344 had a biphasic effect in both cell types , inducing apoptosis at lower concentrations and necrosis at higher concentrations .",
+        "entities": [
+            {
+                "name": "necrosis",
+                "type": "Disease"
+            },
+            {
+                "name": "NCQ436",
+                "type": "Chemical"
+            },
+            {
+                "name": "NCQ344",
+                "type": "Chemical"
+            },
+            {
+                "name": "necrosis",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "Garcinielliptone FC ( GFC ) isolated from hexanic fraction seed extract of species Platonia insignis Mart .",
+        "entities": [
+            {
+                "name": "Garcinielliptone FC",
+                "type": "Chemical"
+            },
+            {
+                "name": "GFC",
+                "type": "Chemical"
+            }
+        ]
+    },
+    {
+        "sentence": "With 100 micrograms denopamine , almost complete restoration of cardiac performance was attained , associated with a slight increase in heart rate .",
+        "entities": [
+            {
+                "name": "denopamine",
+                "type": "Chemical"
+            }
+        ]
+    },
+]

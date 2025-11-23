@@ -1,0 +1,67 @@
+[
+    {
+        "sentence": "The film received its Blu-ray release on September 11 , 2012 , in a double feature with another Wes Craven film , \" Cursed \" .",
+        "entities": [
+            {
+                "name": "Wes Craven",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Wes Craven film",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Spain , they wrote , seems the destiny of all fascist states .",
+        "entities": [
+            {
+                "name": "Spain",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "fascist states",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "Plenary sessions take place in Strasbourg as well as in Brussels , Belgium , while the Parliament 's committee meetings are held primarily in Brussels .",
+        "entities": [
+            {
+                "name": "Strasbourg",
+                "type": "location"
+            },
+            {
+                "name": "Brussels",
+                "type": "location"
+            },
+            {
+                "name": "Belgium",
+                "type": "location"
+            },
+            {
+                "name": "Parliament",
+                "type": "organization"
+            },
+            {
+                "name": "Brussels",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Brussels , Belgium",
+                "type": "organization"
+            },
+            {
+                "name": "Parliament 's committee meetings",
+                "type": "location"
+            }
+        ]
+    }
+]

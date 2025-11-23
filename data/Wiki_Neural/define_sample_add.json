@@ -1,0 +1,281 @@
+[
+    {
+        "sentence": "His athleticism , speed , shot-stopping ability , reflexes , footwork and acrobatic style served as an inspiration to Iker Casillas .",
+        "entities": [
+            {
+                "name": "Iker Casillas",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Casillas",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "In Malta , the title of Doctor is used by academic doctors ( with Ph.D. s ) , medical practitioners , dentists and lawyers .",
+        "entities": [
+            {
+                "name": "Malta",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Doctor",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "For a while in 2000 – 01 , Sunderland were second in the league and it looked as though they would secure qualification for the UEFA Champions League , but their form dipped in the final stages of the season and again they finished seventh .",
+        "entities": [
+            {
+                "name": "Sunderland",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "UEFA Champions League",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "He was often blamed at this tournament for leaving out Romário , who had gone on national television , pleading his case to play in the tournament .",
+        "entities": [
+            {
+                "name": "Romário",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "national television",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "This system is relatively new to the game and is often attributed to the Randy Ferbey rink since they were the first major team to use the system , but it is not known whose idea it originally was .",
+        "entities": [
+            {
+                "name": "Randy Ferbey",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Randy Ferbey rink",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "He also played one Test match for England .",
+        "entities": [
+            {
+                "name": "England",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Test match",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "like a pardon or like a reprieve , \" and both his brother Livingston and sister Kate would later be patients and students there as well .",
+        "entities": [
+            {
+                "name": "Livingston",
+                "type": "person"
+            },
+            {
+                "name": "Kate",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "brother Livingston",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Over time fusions of Mizrahi music with other genres emerged , including oriental rock , hip hop , and pop .",
+        "entities": [
+            {
+                "name": "Mizrahi",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Mizrahi music",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "She also appeared in Paul McCartney 's music video \" Dance Tonight \" from his album \" Memory Almost Full \" , directed by Michel Gondry .",
+        "entities": [
+            {
+                "name": "Paul McCartney",
+                "type": "person"
+            },
+            {
+                "name": "Michel Gondry",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Dance Tonight",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "With a mission to make BBC Two 's output diverse and different from that offered by other networks , he began to establish a portfolio of programmes that defined the channel 's identity for decades to come .",
+        "entities": [
+            {
+                "name": "BBC Two",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "BBC",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "The Allies considered four sites for the landings : Brittany , the Cotentin Peninsula , Normandy , and the Pas-de-Calais .",
+        "entities": [
+            {
+                "name": "Brittany",
+                "type": "location"
+            },
+            {
+                "name": "Cotentin Peninsula",
+                "type": "location"
+            },
+            {
+                "name": "Normandy",
+                "type": "location"
+            },
+            {
+                "name": "Pas-de-Calais",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "the Pas-de-Calais",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "This property was built by Sir John Wynn in 1604 .",
+        "entities": [
+            {
+                "name": "John Wynn",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Sir John",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "At one stage he was considered by George Lucas as a possible director for \" Return of the Jedi \" ( 1983 ) but was passed over .",
+        "entities": [
+            {
+                "name": "George Lucas",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Return of the Jedi",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "As a teenager , he was greatly troubled by the \" Metaphysics \" of Aristotle , which he could not understand until he read al-Farabi 's commentary on the work .",
+        "entities": [
+            {
+                "name": "Aristotle",
+                "type": "person"
+            },
+            {
+                "name": "al-Farabi",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Metaphysics",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "He was the fourth son of Casimir IV Jagiellon .",
+        "entities": [
+            {
+                "name": "Casimir IV Jagiellon",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Casimir IV",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "She used euthanasia a day after her 84th birthday ( with a combination of pills and alcohol ) and was buried in Amsterdam .",
+        "entities": [
+            {
+                "name": "Amsterdam",
+                "type": "location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "84th birthday",
+                "type": "location"
+            }
+        ]
+    },
+    {
+        "sentence": "Stirling Silliphant wrote the screenplay .",
+        "entities": [
+            {
+                "name": "Stirling Silliphant",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "the screenplay",
+                "type": "person"
+            }
+        ]
+    }
+]

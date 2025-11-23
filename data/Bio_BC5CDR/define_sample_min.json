@@ -1,0 +1,40 @@
+[
+    {
+        "sentence": "Short - latency reflex responses were evoked in the masseter and temporalis muscles by a stretch device with different velocities and displacements before , during , and after the pain .",
+        "entities": [
+            {
+                "name": "pain",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "after the pain",
+                "type": "Disease"
+            }
+        ]
+    },
+    {
+        "sentence": "Therefore , we studied the predictive effect of renal ACE activity for the severity of renal damage induced by a single injection of adriamycin in rats .",
+        "entities": [
+            {
+                "name": "renal damage",
+                "type": "Disease"
+            },
+            {
+                "name": "adriamycin",
+                "type": "Chemical"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "renal damage",
+                "type": "Chemical"
+            },
+            {
+                "name": "adriamycin",
+                "type": "Disease"
+            }
+        ]
+    }
+]

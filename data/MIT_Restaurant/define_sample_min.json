@@ -1,0 +1,163 @@
+[
+    {
+        "sentence": "i would like some pizza what are my options",
+        "entities": [
+            {
+                "name": "pizza",
+                "type": "Dish"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "some pizza what",
+                "type": "Dish"
+            },
+            {
+                "name": "pizza",
+                "type": "Location"
+            }
+        ]
+    },
+    {
+        "sentence": "navigate to lil cuccis",
+        "entities": [
+            {
+                "name": "lil cuccis",
+                "type": "Restaurant Name"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "navigate to lil cuccis",
+                "type": "Restaurant Name"
+            },
+            {
+                "name": "lil",
+                "type": "Location"
+            }
+        ]
+    },
+    {
+        "sentence": "what is the phone number to dennys on 7 th north street",
+        "entities": [
+            {
+                "name": "dennys",
+                "type": "Restaurant Name"
+            },
+            {
+                "name": "7 th north street",
+                "type": "Location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "phone number to dennys",
+                "type": "Restaurant Name"
+            },
+            {
+                "name": "7 th north street",
+                "type": "Dish"
+            }
+        ]
+    },
+    {
+        "sentence": "is ngon bistro open right now",
+        "entities": [
+            {
+                "name": "ngon bistro",
+                "type": "Restaurant Name"
+            },
+            {
+                "name": "open right now",
+                "type": "Hours"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "ngon bistro",
+                "type": "Hours"
+            },
+            {
+                "name": "open",
+                "type": "Restaurant Name"
+            }
+        ]
+    },
+    {
+        "sentence": "i want to eat someplace with a nice quiet patio any ideas",
+        "entities": [
+            {
+                "name": "nice",
+                "type": "Rating"
+            },
+            {
+                "name": "quiet patio",
+                "type": "Amenity"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "nice quiet",
+                "type": "Cuisine"
+            },
+            {
+                "name": "quiet",
+                "type": "Amenity"
+            }
+        ]
+    },
+    {
+        "sentence": "i need to find a nearby bagel shop that is open",
+        "entities": [
+            {
+                "name": "nearby",
+                "type": "Location"
+            },
+            {
+                "name": "bagel",
+                "type": "Cuisine"
+            },
+            {
+                "name": "open",
+                "type": "Hours"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "bagel shop",
+                "type": "Dish"
+            },
+            {
+                "name": "find a nearby bagel",
+                "type": "Location"
+            }
+        ]
+    },
+    {
+        "sentence": "im looking for cheap vegan food in north quincy",
+        "entities": [
+            {
+                "name": "cheap",
+                "type": "Price"
+            },
+            {
+                "name": "vegan",
+                "type": "Cuisine"
+            },
+            {
+                "name": "north quincy",
+                "type": "Location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "cheap vegan",
+                "type": "Dish"
+            },
+            {
+                "name": "north quincy",
+                "type": "Cuisine"
+            }
+        ]
+    }
+]

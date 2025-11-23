@@ -1,0 +1,394 @@
+[
+    {
+        "sentence": "Now back to `` Wolf Blitzer Reports . ''",
+        "entities": [
+            {
+                "name": "Wolf Blitzer Reports",
+                "type": "work of art"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Wolf Blitzer",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "Painter Hsia Yang and his Fuzzy People",
+        "entities": [
+            {
+                "name": "Hsia Yang",
+                "type": "person"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Hsia",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Eve Connan , VOA News , Jerusalem .",
+        "entities": [
+            {
+                "name": "Eve Connan",
+                "type": "person"
+            },
+            {
+                "name": "VOA News",
+                "type": "organization"
+            },
+            {
+                "name": "Jerusalem",
+                "type": "geographical social political"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "VOA News",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "Jiangsu is China 's third largest foreign trade port , with foreign trade increasing rapidly by double digits successively for many years .",
+        "entities": [
+            {
+                "name": "Jiangsu",
+                "type": "geographical social political"
+            },
+            {
+                "name": "China",
+                "type": "geographical social political"
+            },
+            {
+                "name": "third",
+                "type": "ordinal"
+            },
+            {
+                "name": "many years",
+                "type": "date"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "China 's third largest foreign trade port",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Basf AG said it moved its headquarters for Latin America to Mexico and the headquarters for the Asia / Australia regional division to Singapore , effective Oct .",
+        "entities": [
+            {
+                "name": "Basf AG",
+                "type": "organization"
+            },
+            {
+                "name": "Latin America",
+                "type": "location"
+            },
+            {
+                "name": "Mexico",
+                "type": "geographical social political"
+            },
+            {
+                "name": "Asia",
+                "type": "location"
+            },
+            {
+                "name": "Singapore",
+                "type": "geographical social political"
+            },
+            {
+                "name": "Oct",
+                "type": "date"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Asia / Australia",
+                "type": "organization"
+            },
+            {
+                "name": "Latin America to Mexico",
+                "type": "location"
+            },
+            {
+                "name": "division to Singapore",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Now Mir is being made irrelevant by a new , multi-nation space station under construction .",
+        "entities": [
+            {
+                "name": "Mir",
+                "type": "facility"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "multi-nation space station",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Marshall was archetypical in the career - making fear and folly of the U.S. - Russian mirror - image rivalry .",
+        "entities": [
+            {
+                "name": "Marshall",
+                "type": "person"
+            },
+            {
+                "name": "U.S.",
+                "type": "national religious political"
+            },
+            {
+                "name": "Russian",
+                "type": "national religious political"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "mirror - image rivalry",
+                "type": "event"
+            },
+            {
+                "name": "Russian",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "But since Time 's merger with Warner Communications Inc. , relations between the two have become strained .",
+        "entities": [
+            {
+                "name": "Time",
+                "type": "organization"
+            },
+            {
+                "name": "Warner Communications Inc.",
+                "type": "organization"
+            },
+            {
+                "name": "two",
+                "type": "cardinal"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Time 's merger",
+                "type": "organization"
+            },
+            {
+                "name": "Warner Communications",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Before the establishment of a new peace mechanism , the Korean Armistice Agreement was still in effect .",
+        "entities": [
+            {
+                "name": "the Korean Armistice Agreement",
+                "type": "law"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Korean Armistice",
+                "type": "event"
+            }
+        ]
+    },
+    {
+        "sentence": "Foot - long red coffins would sit on counters in big stores , and people would carry around mini-coffin key chains .",
+        "entities": [
+            {
+                "name": "Foot",
+                "type": "quantity"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Foot - long",
+                "type": "quantity"
+            }
+        ]
+    },
+    {
+        "sentence": "He estimated that the rate of economic growth in ASEAN would be about 4.5 percent .",
+        "entities": [
+            {
+                "name": "ASEAN",
+                "type": "organization"
+            },
+            {
+                "name": "about 4.5 percent",
+                "type": "percent"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "economic growth",
+                "type": "cardinal"
+            }
+        ]
+    },
+    {
+        "sentence": "On Friday , Mr. Clinton will travel to Vietnam to become the first US President to visit that country since the end of the Vietnam War in 1975 .",
+        "entities": [
+            {
+                "name": "Friday",
+                "type": "date"
+            },
+            {
+                "name": "Clinton",
+                "type": "person"
+            },
+            {
+                "name": "Vietnam",
+                "type": "geographical social political"
+            },
+            {
+                "name": "first",
+                "type": "ordinal"
+            },
+            {
+                "name": "US",
+                "type": "geographical social political"
+            },
+            {
+                "name": "the Vietnam War",
+                "type": "event"
+            },
+            {
+                "name": "1975",
+                "type": "date"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "President",
+                "type": "person"
+            }
+        ]
+    },
+    {
+        "sentence": "Mr. Noriega 's initial retainer was only $ 50 to $ 100 a month , plus occasional gifts of liquor or groceries from the American PX , a former intelligence official says .",
+        "entities": [
+            {
+                "name": "Noriega",
+                "type": "person"
+            },
+            {
+                "name": "only $ 50 to $ 100",
+                "type": "money"
+            },
+            {
+                "name": "American",
+                "type": "national religious political"
+            },
+            {
+                "name": "PX",
+                "type": "organization"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Noriega 's",
+                "type": "person"
+            },
+            {
+                "name": "only $ 50",
+                "type": "money"
+            },
+            {
+                "name": "former intelligence official",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "Late Edition continues right at the top of the hour .",
+        "entities": [
+            {
+                "name": "Late Edition",
+                "type": "work of art"
+            },
+            {
+                "name": "the top of the hour",
+                "type": "time"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "Edition continues",
+                "type": "event"
+            }
+        ]
+    },
+    {
+        "sentence": "U.S. and Yemeni officials have released a photo of one of the suicide bombers killed in the attack on the `` USS Cole '' in the port of Aden October .",
+        "entities": [
+            {
+                "name": "U.S.",
+                "type": "geographical social political"
+            },
+            {
+                "name": "Yemeni",
+                "type": "national religious political"
+            },
+            {
+                "name": "one",
+                "type": "cardinal"
+            },
+            {
+                "name": "the `` USS Cole ''",
+                "type": "product"
+            },
+            {
+                "name": "Aden",
+                "type": "geographical social political"
+            },
+            {
+                "name": "October",
+                "type": "date"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "U.S. and Yemeni",
+                "type": "geographical social political"
+            },
+            {
+                "name": "Yemeni officials",
+                "type": "organization"
+            },
+            {
+                "name": "USS Cole",
+                "type": "organization"
+            }
+        ]
+    },
+    {
+        "sentence": "She suggests that schools can organize English Clubs for the more advanced students , and their teachers can provide them with interesting story books which are more demanding .",
+        "entities": [
+            {
+                "name": "English",
+                "type": "language"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "English Clubs",
+                "type": "organization"
+            }
+        ]
+    }
+]

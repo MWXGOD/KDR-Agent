@@ -1,0 +1,14 @@
+[
+  {"actor": "Person who performs in a movie."},
+  {"plot": "Summary or description of a movie’s storyline."},
+  {"year": "Four-digit year associated with movie's release."},
+  {"genre": "Film classification category."},
+  {"director": "Individual who directs the movie."},
+  {"song": "Music associated with the movie."},
+  {"character": "Name of a fictional person in a movie."},
+  {"title": "Official movie title."},
+  {"rating": "Film rating classification."},
+  {"average Ratings": "Numeric average score assigned to a movie."},
+  {"review": "Critique or evaluation comment about a movie."},
+  {"trailer": "Reference to a movie’s promotional video."}
+]

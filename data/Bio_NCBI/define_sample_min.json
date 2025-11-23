@@ -1,0 +1,21 @@
+[
+    {
+        "sentence": "We have now tested , in a blind study , 26 American TSD carriers and 28 non - carriers who have British ancestry for the intron 9 splice site mutation .",
+        "entities": [
+            {
+                "name": "TSD",
+                "type": "Disease"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "TSD carriers",
+                "type": "Chemical"
+            },
+            {
+                "name": "splice site mutation",
+                "type": "Disease"
+            }
+        ]
+    }
+]

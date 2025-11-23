@@ -1,0 +1,273 @@
+[
+    {
+        "sentence": "is the local mexican restaurant smoke free",
+        "entities": [
+            {
+                "name": "local",
+                "type": "Location"
+            },
+            {
+                "name": "mexican",
+                "type": "Cuisine"
+            },
+            {
+                "name": "smoke free",
+                "type": "Amenity"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "local mexican restaurant",
+                "type": "Location"
+            },
+            {
+                "name": "mexican",
+                "type": "Location"
+            },
+            {
+                "name": "restaurant smoke free",
+                "type": "Dish"
+            }
+        ]
+    },
+    {
+        "sentence": "is there a goodtimes the candy cafe along the waterfront within 10 miles",
+        "entities": [
+            {
+                "name": "goodtimes",
+                "type": "Restaurant Name"
+            },
+            {
+                "name": "candy cafe",
+                "type": "Restaurant Name"
+            },
+            {
+                "name": "along the waterfront within 10 miles",
+                "type": "Location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "the candy cafe",
+                "type": "Restaurant Name"
+            },
+            {
+                "name": "waterfront",
+                "type": "Location"
+            },
+            {
+                "name": "10 miles",
+                "type": "Amenity"
+            }
+        ]
+    },
+    {
+        "sentence": "do you know where there is a greek restaurant that serves hummus",
+        "entities": [
+            {
+                "name": "greek",
+                "type": "Cuisine"
+            },
+            {
+                "name": "hummus",
+                "type": "Dish"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "greek restaurant",
+                "type": "Restaurant Name"
+            },
+            {
+                "name": "hummus",
+                "type": "Amenity"
+            }
+        ]
+    },
+    {
+        "sentence": "is there any malaysian restaurant that has a great wine list",
+        "entities": [
+            {
+                "name": "malaysian",
+                "type": "Cuisine"
+            },
+            {
+                "name": "wine list",
+                "type": "Amenity"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "great wine list",
+                "type": "Cuisine"
+            },
+            {
+                "name": "malaysian",
+                "type": "Restaurant Name"
+            }
+        ]
+    },
+    {
+        "sentence": "is there a granite city on i 5",
+        "entities": [
+            {
+                "name": "granite city",
+                "type": "Restaurant Name"
+            },
+            {
+                "name": "i 5",
+                "type": "Location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "granite city on i 5",
+                "type": "Location"
+            },
+            {
+                "name": "i 5",
+                "type": "Cuisine"
+            }
+        ]
+    },
+    {
+        "sentence": "where can i get some taco salad",
+        "entities": [
+            {
+                "name": "taco salad",
+                "type": "Dish"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "salad",
+                "type": "Cuisine"
+            }
+        ]
+    },
+    {
+        "sentence": "im looking for restaurants that accept discover credit cards",
+        "entities": [
+            {
+                "name": "accept discover",
+                "type": "Amenity"
+            },
+            {
+                "name": "cards",
+                "type": "Amenity"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "cards",
+                "type": "Cuisine"
+            }
+        ]
+    },
+    {
+        "sentence": "are you showing any wendys nearby",
+        "entities": [
+            {
+                "name": "wendys",
+                "type": "Restaurant Name"
+            },
+            {
+                "name": "nearby",
+                "type": "Location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "showing any wendys",
+                "type": "Dish"
+            }
+        ]
+    },
+    {
+        "sentence": "are there any places where i could catch a hot dog",
+        "entities": [
+            {
+                "name": "hot dog",
+                "type": "Dish"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "catch a hot dog",
+                "type": "Dish"
+            }
+        ]
+    },
+    {
+        "sentence": "phone number for chicken resturant",
+        "entities": [
+            {
+                "name": "chicken",
+                "type": "Cuisine"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "chicken resturant",
+                "type": "Cuisine"
+            }
+        ]
+    },
+    {
+        "sentence": "where can i get the best hot chocolate within a 5 mile radius",
+        "entities": [
+            {
+                "name": "best",
+                "type": "Rating"
+            },
+            {
+                "name": "hot chocolate",
+                "type": "Dish"
+            },
+            {
+                "name": "5 mile radius",
+                "type": "Location"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "hot chocolate within a 5 mile radius",
+                "type": "Restaurant Name"
+            }
+        ]
+    },
+    {
+        "sentence": "where is the nearest drive through",
+        "entities": [
+            {
+                "name": "nearest",
+                "type": "Location"
+            },
+            {
+                "name": "drive through",
+                "type": "Amenity"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "nearest drive through",
+                "type": "Restaurant Name"
+            }
+        ]
+    },
+    {
+        "sentence": "who has mooshi mooshi",
+        "entities": [
+            {
+                "name": "mooshi mooshi",
+                "type": "Dish"
+            }
+        ],
+        "false_entities": [
+            {
+                "name": "mooshi",
+                "type": "Dish"
+            }
+        ]
+    }
+]

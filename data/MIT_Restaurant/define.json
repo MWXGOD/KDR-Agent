@@ -1,0 +1,10 @@
+[
+  {"Rating": "Numeric or qualitative evaluation of a restaurant (e.g., stars, adjectives like “best”)."},
+  {"Amenity": "Facility or service offered by a restaurant."},
+  {"Location": "Physical place or geographic descriptor for restaurant location."},
+  {"Restaurant Name": "Specific name of a restaurant."},
+  {"Price": "Monetary cost indication or qualitative price descriptor."},
+  {"Hours": "Business operating times or availability periods."},
+  {"Dish": "Specific food item offered by the restaurant."},
+  {"Cuisine": "Style or type of food served (e.g., nationality or style)."}
+]

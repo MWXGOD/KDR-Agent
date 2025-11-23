@@ -1,0 +1,9 @@
+[
+  {"person": "Mentions of real-world individuals, including both proper names and Twitter handles, used to refer to a person."},
+  {"location": "Geographical entities, such as cities, countries, regions, and landmarks."},
+  {"corporation": "Named companies, businesses, government agencies, institutions, or Twitter handles representing organizations."},
+  {"creative work": "Titles of artistic or media works such as books, movies, songs, albums."},
+  {"group": "Social collectives such as sports teams, bands, political parties, or informal online communities."},
+  {"product": "Commercially available items, including hardware, software, apparel and consumer goods."},
+  {"event": "Named occurrences such as public events, festivals, conferences, or significant happenings."}
+]
