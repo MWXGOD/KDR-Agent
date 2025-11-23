@@ -13,7 +13,7 @@ KDR-Agent 是一个面向 **低资源、多领域命名实体识别（NER）** �
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="figure/Overall_Model.png" width="800" />
+  <img src="figure/Overall_Model.png" />
 </p>
 
 **Figure:** Overview of KDR-Agent.
