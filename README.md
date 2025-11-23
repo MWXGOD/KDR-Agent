@@ -6,7 +6,7 @@
 **AAAI 2026 Paper**: *KDR-Agent — a Multi-Agent LLM Framework for Low-Resource, Multi-Domain NER.*
 
 KDR-Agent 是一个面向 **低资源、多领域命名实体识别（NER）** 的多智能体（Multi-Agent）LLM 框架。
-框架核心思想是：**“先理解再识别，并用反思自纠偏”**。在缺少标注数据和跨领域迁移困难的情况下，KDR-Agent 通过 *Planner → NER → Reflection* 的多阶段协作，提高实体识别的稳定性与可解释性。
+框架核心思想是：**“先理解再识别，并用反思自我纠正”**。
 
 ---
 
