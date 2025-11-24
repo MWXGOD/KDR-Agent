@@ -19,7 +19,7 @@ The core idea is: **“understand before recognizing, and self-correct through r
 
 ---
 
-## 🚀 快速开始
+## 🚀 Quick Start
 
 ### 1. 📦Dependencies
 
