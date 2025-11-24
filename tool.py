@@ -62,29 +62,29 @@ Interpretation: <a short explanation that includes both the most likely meaning 
 
 def get_wiki_summary(unfamiliar_concepts, sentences=2, max_try_candidates=5):
     """
-    对单个实体做鲁棒查询：
-    1）先直接 summary（带 auto_suggest=True）
-    2）遇到 DisambiguationError，依次尝试前几个候选条目
-    3）遇到 PageError，用 wikipedia.search 再模糊搜一轮
-    4）仍失败则抛出异常
+    Robust Wikipedia lookup for a single concept:
+    1) Try direct summary first (with auto_suggest=True)
+    2) If DisambiguationError occurs, try the top candidate pages one by one
+    3) If PageError occurs, use wikipedia.search for a fuzzy search fallback
+    4) If still failing, raise the exception
     """
     try:
-        # 第一尝试：让 wikipedia 自己做自动纠错/模糊匹配
+        # First attempt: let Wikipedia auto-correct / fuzzy match the query
         return wikipedia.summary(unfamiliar_concepts, sentences=sentences, auto_suggest=True)
     except wikipedia.exceptions.DisambiguationError as e:
-        # 歧义页面：有多个同名条目
+        # Disambiguation page: multiple entries share the same name
         for cand in e.options[:max_try_candidates]:
             try:
                 return wikipedia.summary(cand, sentences=sentences, auto_suggest=False)
             except (wikipedia.exceptions.DisambiguationError,
                     wikipedia.exceptions.PageError,
                     requests.exceptions.RequestException):
-                # 继续尝试下一个候选
+                # Continue to try the next candidate
                 continue
-        # 候选都失败了，就把原异常往外抛
+        # If all candidates fail, re-raise the original exception
         raise
     except wikipedia.exceptions.PageError:
-        # 查不到该条目，走 search 做模糊搜索
+        # Page not found: fall back to fuzzy search
         search_results = wikipedia.search(unfamiliar_concepts)
         if not search_results:
             raise
@@ -96,7 +96,7 @@ def get_wiki_summary(unfamiliar_concepts, sentences=2, max_try_candidates=5):
                     wikipedia.exceptions.PageError,
                     requests.exceptions.RequestException):
                 continue
-        # 搜索结果也都失败
+        # All search candidates failed
         raise
 
 
@@ -237,5 +237,6 @@ def get_PRF(test_data):
     P = C / P if P > 0 else 0.0
     R = C / R if R > 0 else 0.0
     F1 = 2 * P * R / (P + R) if (P + R) > 0 else 0.0
+
 
     return P, R, F1
