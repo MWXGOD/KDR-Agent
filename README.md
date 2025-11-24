@@ -63,7 +63,7 @@ Parameter description:
 
 | Parameter        | Description                                            |
 | ---------------- | ------------------------------------------------------ |
-| `dataset`        | Dataset name, used to select prompt templates          |
+| `dataset`        | Dataset name                                           |
 | `test_file_path` | Path to the test set (json)                            |
 | `save_file_path` | Path to save predictions (will overwrite / write back) |
 | `model_name`     | LLM name, e.g., `gpt-4o`                               |
