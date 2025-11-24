@@ -125,7 +125,15 @@ You may replace it with your preferred evaluation method in `tool.py`
 
 ---
 
-### 7. 🧩Project Structure
+### 7. 📚Wikipedia Retrieval
+
+We use the **Python `wikipedia` API** to fetch short summaries as background knowledge.
+Retrieval follows a **robust fallback calling strategy**: we first try an automatic fuzzy/auto-suggest lookup, and if the concept is ambiguous or not found, we fall back to candidate pages from disambiguation or search results.
+This ensures stable Wikipedia context acquisition for rare, noisy, or multi-meaning entity mentions.
+
+---
+
+### 8. 🧩Project Structure
 
 ```text
 KDR-Agent/
@@ -140,30 +148,6 @@ KDR-Agent/
 │     └─ ...
 └─ README.md
 ```
-
----
-
-### 8. 🔧Adapting to New Datasets
-
-To extend KDR-Agent to a new dataset:
-
-1. Add corresponding prompt templates in `tool.py`:
-
-   * `get_palnner_prompt`
-   * `get_first_NER_prompt`
-   * `get_reflection_prompt`
-
-2. Make sure the dataset follows the same JSON format.
-
-3. Create a new config JSON file.
-
----
-
-### 9. 📚Wikipedia Retrieval
-
-We use the **Python `wikipedia` API** to fetch short summaries as background knowledge.
-Retrieval follows a **robust fallback calling strategy**: we first try an automatic fuzzy/auto-suggest lookup, and if the concept is ambiguous or not found, we fall back to candidate pages from disambiguation or search results.
-This ensures stable Wikipedia context acquisition for rare, noisy, or multi-meaning entity mentions.
 
 ---
 
