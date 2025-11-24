@@ -85,7 +85,7 @@ After running, you will get:
 
 ---
 
-## 📄 Data Format
+### 5. 📄Data Format
 
 The input file `test_file_path` should be a JSON list. Each sample contains at least:
 
@@ -112,7 +112,7 @@ The output will append a prediction field for each sample:
 
 ---
 
-## 📊 Evaluation
+### 6. 📊Evaluation
 
 We compute metrics using `get_PRF(test_data)`:
 
@@ -125,7 +125,7 @@ You may replace it with your preferred evaluation method in `tool.py`
 
 ---
 
-## 🧩 Project Structure
+### 7. 🧩Project Structure
 
 ```text
 KDR-Agent/
@@ -143,7 +143,7 @@ KDR-Agent/
 
 ---
 
-## 🔧 Adapting to New Datasets
+### 8. 🔧Adapting to New Datasets
 
 To extend KDR-Agent to a new dataset:
 
@@ -159,7 +159,7 @@ To extend KDR-Agent to a new dataset:
 
 ---
 
-## 📚 Wikipedia Retrieval
+### 9. 📚Wikipedia Retrieval
 
 We use the **Python `wikipedia` API** to fetch short summaries as background knowledge.
 Retrieval follows a **robust fallback calling strategy**: we first try an automatic fuzzy/auto-suggest lookup, and if the concept is ambiguous or not found, we fall back to candidate pages from disambiguation or search results.
