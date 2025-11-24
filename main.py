@@ -3,8 +3,10 @@ from arguments import Arguments
 from tool import *
 import json_repair
 from jsonchecker import JsonChecker
+import os
 
-openai.api_key = "sk-*********************************"
+# openai.api_key = "sk-*********************************"
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 
 # schema
@@ -87,6 +89,7 @@ save_json_file(args.save_file_path, test_data)
 P, R, F1 = get_PRF(test_data)
 
 print(P, R, F1)
+
 
 
 
