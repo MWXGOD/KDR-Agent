@@ -82,13 +82,13 @@ for data in test_data:
             }
     
     data["predicts"] = reflection_answer_json["entities"]
-    break
 
 save_json_file(args.save_file_path, test_data)
 
 P, R, F1 = get_PRF(test_data)
 
 print(P, R, F1)
+
 
 
 
